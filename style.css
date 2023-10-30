@@ -5,10 +5,6 @@ body {
     line-height: 1.2;
     font-weight: normal;
     color: #0F0101;
-    background: linear-gradient(to bottom right, #FFB6C1, #ADD8E6, #FFFACD);
-    background: linear-gradient(to bottom right, #F3B9CB, #D2B48C, #FFF8DC);
-    background: linear-gradient(to bottom right, #FFA500, #32CD32, #40E0D0);
-    background: linear-gradient(to bottom right, #87CEEB, #4682B4, #1E90FF);
     background: linear-gradient(to bottom right, #8B4513, #DC143C, #FFF8DC);
 }
 
